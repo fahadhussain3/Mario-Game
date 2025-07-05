@@ -1,0 +1,10 @@
+coin 120 450
+coin 180 450
+coin 300 400
+coin 400 400
+coin 500 450
+coin 600 450
+spike 350 460
+spike 620 460
+enemy 550 460
+flag 750 460
